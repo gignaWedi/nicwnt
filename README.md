@@ -1,2 +1,2 @@
 # nicwnt
-ⲛⲓⲥⲱⲛⲧ - Church Designs
+ⲛⲓⲥⲱⲛⲧ - Church Projects
